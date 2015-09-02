@@ -6,7 +6,16 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
+<title>Etiquetas HTML</title>
 </head>
 <body>
+
 </body>
 </html>
+
+4- Etiqueta div
+5- Etiqueta p
+6- Etiqueta br
+7- Etiqueta img
+8- Etiqueta a
+
