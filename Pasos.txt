@@ -1,0 +1,12 @@
+1- Crear una carpeta en escritorio llamada Web
+2- Abrir el bloc de notas.
+3- Copiar lo siguiente:
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+</head>
+<body>
+</body>
+</html>
