@@ -6,9 +6,13 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>Etiquetas HTML</title>
+<title>ALAN TURING</title>
 </head>
 <body>
+<div>
+<h1>ALAN TURING</h1>
+<ul><li>Información General</li></ul>
+</div>
 
 </body>
 </html>
