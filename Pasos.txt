@@ -24,3 +24,37 @@ Trabajar etiquetas:
 7- Etiqueta img
 8- Etiqueta a
 
+
+____________________________________
+
+
+<p>
+Alan Mathison Turing, OBE (Paddington, Londres, 23 de junio de 1912-Wilmslow, Cheshire, 7 de junio de 1954), fue un matemático, lógico, científico de la computación, criptógrafo, filósofo, maratonista y corredor de ultra distancia británico.
+</br></br>
+Es considerado uno de los padres de la ciencia de la computación y precursor de la informática moderna. Proporcionó una influyente formalización de los conceptos de algoritmo y computación: la máquina de Turing. Formuló su propia versión de la hoy ampliamente aceptada tesis de Church-Turing.
+</br></br>
+Durante la Segunda Guerra Mundial, trabajó en descifrar los códigos nazis, particularmente los de la máquina Enigma, y durante un tiempo fue el director de la sección Naval Enigma de Bletchley Park. Tras la guerra diseñó uno de los primeros computadores electrónicos programables digitales en el Laboratorio Nacional de Física del Reino Unido y poco tiempo después construyó otra de las primeras máquinas en la Universidad de Mánchester.
+</br></br>
+En el campo de la inteligencia artificial es conocido sobre todo por la concepción del test de Turing, un criterio según el cual puede juzgarse la inteligencia de una máquina si sus respuestas en la prueba son indistinguibles de las de un ser humano.
+</br></br>
+La carrera de Turing terminó súbitamente después de ser procesado por ser homosexual. Dos años después de su condena murió, según la versión oficial por suicidio, pero su muerte ha dado lugar a otras hipótesis incluida la del asesinato.
+</br></br>
+El 24 de diciembre de 2013, la reina Isabel II promulgó el edicto por el que se exoneró oficialmente al matemático, quedando anulados todos los cargos en su contra
+</p>
+<h2 id="estudios">Estudios</h2>
+<p>
+En 1926, con catorce años, ingresó en el internado de Sherborne en Dorset. Su primer día de clase coincidió con una huelga general en Inglaterra, pero su determinación por asistir a clase era tan grande que recorrió en solitario, con su bicicleta, los más de 96 kilómetros que separaban Southampton de su escuela, pasando la noche en una posada. Tal hazaña fue recogida en la prensa local.
+</br></br>
+Las esperanzas y las ambiciones de Turing en la escuela fueron moldeadas por la estrecha amistad que desarrolló con un compañero un poco mayor, Christopher Morcom,3 que fue el primer amor de Turing. Morcom murió repentinamente, el 13 de febrero de 1930,4 sólo unas pocas semanas después de su última temporada en Sherborne, debido a complicaciones de la tuberculosis bovina, contraída tras beber leche de alguna vaca infectada. La fe religiosa de Turing se hizo pedazos, y se volvió ateo. Adoptó la convicción de que todos los fenómenos, incluyendo el funcionamiento del cerebro humano, deben ser materialistas.5 Sin embargo siguió creyendo en la supervivencia del espíritu después de la muerte.
+</br></br>
+La inclinación natural de Turing hacia la matemática y la ciencia no le atrajo el respeto de sus profesores de Sherborne, cuyo concepto de educación hacía mayor énfasis en los clásicos. A pesar de ello, Turing continuó mostrando una singular habilidad para los estudios que realmente le gustaban, y llegó a resolver problemas muy avanzados para su edad (15 años) sin ni siquiera haber estudiado cálculo elemental.
+</br></br>
+En 1928, con dieciséis años, Turing descubrió los trabajos de Albert Einstein y no sólo pudo comprenderlos, sino que además infirió las críticas de Einstein a las Leyes de Newton de la lectura de un texto en el que no estaban explícitas. Durante su edad escolar, Turing fue un joven cuyo optimismo y ambiciones se vieron acrecentados debido en gran parte a su intensa unión con su amigo Morcom.
+</br></br>
+<h3>La Universidad y sus estudios sobre computabilidad</h3>
+
+El King's College de Cambridge, donde estudió en 1931 y se convirtió en miembro en 1935. Su sala de computación lleva actualmente su nombre.
+Debido a su falta de voluntad para esforzarse con la misma intensidad en el estudio de los clásicos que en el de la ciencia y la matemática, Turing suspendió sus exámenes finales varias veces y tuvo que ingresar en la escuela universitaria que eligió en segundo lugar, King's College, Universidad de Cambridge, en vez de en la que era su primera elección, Trinity. Recibió las enseñanzas de Godfrey Harold Hardy, un respetado matemático que ocupó la cátedra Sadleirian en Cambridge, y que posteriormente, fue responsable de un centro de estudios e investigaciones matemáticas entre 1931 y 1934. En 1935 Turing fue nombrado profesor del King's College.
+</p>
+</div>
+</div>
