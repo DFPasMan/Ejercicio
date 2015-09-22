@@ -11,8 +11,10 @@
 <body>
 <div>
 <h1>ALAN TURING</h1>
-</div>
 
+
+
+</div>
 </body>
 </html>
 
@@ -56,5 +58,4 @@ En 1928, con dieciséis años, Turing descubrió los trabajos de Albert Einstein
 El King's College de Cambridge, donde estudió en 1931 y se convirtió en miembro en 1935. Su sala de computación lleva actualmente su nombre.
 Debido a su falta de voluntad para esforzarse con la misma intensidad en el estudio de los clásicos que en el de la ciencia y la matemática, Turing suspendió sus exámenes finales varias veces y tuvo que ingresar en la escuela universitaria que eligió en segundo lugar, King's College, Universidad de Cambridge, en vez de en la que era su primera elección, Trinity. Recibió las enseñanzas de Godfrey Harold Hardy, un respetado matemático que ocupó la cátedra Sadleirian en Cambridge, y que posteriormente, fue responsable de un centro de estudios e investigaciones matemáticas entre 1931 y 1934. En 1935 Turing fue nombrado profesor del King's College.
 </p>
-</div>
 </div>
